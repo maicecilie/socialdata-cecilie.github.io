@@ -4,14 +4,13 @@
 
 layout: home
 ---
-# Welcome to My Website!
 
-This is the front page of my GitHub Pages site v2
+This is the front page of my GitHub Pages site
 
 ## About Me
 
 Here's a picture of me:
-![Image](/docs/_site/assets/cat.jpg)
+![image](/images/cat.jpg)
 
 
 [Link to another page](another-page.html)
