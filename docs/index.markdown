@@ -4,7 +4,13 @@
 
 layout: home
 ---
+# Welcome to My Website!
 
-![Image](_site\assets\cat.jpg)
+This is the front page of my GitHub Pages site.
+
+## About Me
+
+Here's a picture of me:
+![Image](/assets/cat.jpg)
 
 [Link to another page](another-page.html)
