@@ -11,6 +11,6 @@ This is the front page of my GitHub Pages site.
 ## About Me
 
 Here's a picture of me:
-![Image](/assets/cat.jpg)
+![Image](assets/cat.jpg)
 
 [Link to another page](another-page.html)
