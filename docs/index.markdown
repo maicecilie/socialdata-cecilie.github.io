@@ -5,14 +5,6 @@
 layout: home
 ---
 
-# Welcome to My Github Page!
-
-This is the front page of my GitHub Pages site.
-
-## About Me
-
-I'm a developer who loves to write code and learn new things.
-
-![Image](docs/_site/assets/cat.jpg)
+![Image](docs\_site\assets\cat.jpg)
 
 [Link to another page](another-page.html)
