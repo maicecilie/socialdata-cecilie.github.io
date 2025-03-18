@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Image](docs\_site\assets\cat.jpg)
+![Image](_site\assets\cat.jpg)
 
 [Link to another page](another-page.html)
