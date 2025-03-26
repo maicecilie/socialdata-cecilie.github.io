@@ -1,13 +1,13 @@
-# **The Monthly Insight**  
+# **San Franscisco Crime Insights**  
 *Your Source for Thoughtful Journalism*  
 *March 2025 Edition*  
 
 ---
 
-## **Cover Story: The Future of AI in Journalism**  
-_By Jane Doe_  
+## **San Francisco crime: a Data-Based Approach**  
+_By Cecilie Mai Do & Laura Pascual Hebrero_  
 
-Artificial Intelligence is reshaping how news is created, consumed, and distributed. But can it replace human intuition and ethical storytelling?  
+The following insights have been generated from the San Francisco crime data reported since 2014 to 2024, see [dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data). TODO: add other dataset
 
 > "AI will not replace journalists, but journalists who use AI will replace those who don’t." – Industry Expert  
 
