@@ -45,15 +45,8 @@ By 2019, there is a **near-collapse** of public intoxication arrests:
 - **The Mission’s red zone faded to just six incidents**—a **96% drop** from 2014.  
 - **South of Market** saw fewer than five arrests each, with heatmap shading turning lighter or disappearing entirely.  
 
-**Key Drivers of the Decline:**  
-1. **The Death of the Dive Bar**  
-   Rising rents and tech-driven gentrification forced **over 30 bars** to close in the Mission alone between 2015–2019, including iconic spots like **Elbo Room** and **Lexington Club**. [SF Business Times 2019](https://www.bizjournals.com/sanfrancisco/news/2019/08/15/mission-district-bar-closures.html)  
-
-2. **Harm Reduction Over Arrests**  
-   SFPD adopted a **"cite-and-release" policy** for low-level offenses, with arrests dropping citywide by **62%**. [SFPD 2019 Annual Report](https://www.sanfranciscopolice.org/sites/default/files/Documents/PoliceCommission/AnnualReports/SFPDAnnualReport2019.pdf)  
-
-3. **Changing Nightlife Demographics**  
-   **SoMa’s club scene shrank** as venues closed (e.g., **The EndUp**) or shifted to private events. Giants-related arrests fell due to **increased security and ride-share use**. [Ballpark Impact Study 2020](https://sf.gov/research-reports/giants-ballpark-neighborhood-study)  
+#### **Key Drivers of the Decline:**  
+Between 2015 and 2019, the Mission District’s bar scene experienced a significant transformation as rising rents and tech-driven gentrification led to the closure of **over 30 bars**, including iconic spots like **Elbo Room** and **Lexington Club** ([SF Business Times 2019](https://www.bizjournals.com/sanfrancisco/news/2019/08/15/mission-district-bar-closures.html)). This marked the end of the dive bar era in the area, as many of these spaces were replaced by more upscale venues catering to a different demographic. At the same time, the SFPD adopted a **"cite-and-release" policy** for low-level offenses, contributing to a **62% decline in arrests citywide** ([SFPD 2019 Annual Report](https://www.sanfranciscopolice.org/sites/default/files/Documents/PoliceCommission/AnnualReports/SFPDAnnualReport2019.pdf)). This shift in policing strategy focused on harm reduction rather than punitive measures, reflecting broader changes in how public intoxication and minor offenses were handled. Meanwhile, the nightlife scene in **South of Market (SoMa)** also began to shrink, with clubs like **The EndUp** closing or transitioning to private events, while **Giants-related arrests** decreased due to **increased security and the growing use of ride-sharing services** ([Ballpark Impact Study 2020](https://sf.gov/research-reports/giants-ballpark-neighborhood-study)). These changes collectively reshaped the city’s nightlife, transforming both its social fabric and its approach to policing public behavior.
 
 
 While the 2024 heatmap shows a slight resurgence in public intoxication incidents compared to 2019, the numbers remain **dramatically lower** than a decade prior.  
@@ -62,15 +55,11 @@ While the 2024 heatmap shows a slight resurgence in public intoxication incident
 - **The Mission has 10 cases**, linked to **post-pandemic bar reopenings** (e.g., **Zeitgeist**) but still lacks the dive-bar density of 2014.  
 
 ### Why Are Numbers Still Low? 
-#### The Permanent Decline of Dive Bar Culture  
-- **The Mission’s bar scene has not recovered** from its pre-2019 closures. While a few legacy spots like **Zeitgeist** and **El Rio** remain, the district has lost **over 60% of its bars** since 2014. [SF Eater 2023](https://sf.eater.com/2019/12/18/21021093/san-francisco-dive-bars-closed-map)  
+The Mission District’s dive bar culture has faced a permanent decline, and its bar scene has not recovered from the closures that took place before 2019. Since 2014, the Mission has lost **over 60% of its bars**, with only a few legacy spots like **Zeitgeist** and **El Rio** remaining as examples of the area’s once-vibrant nightlife ([SF Eater 2023](https://sf.eater.com/2019/12/18/21021093/san-francisco-dive-bars-closed-map)). The bars that have emerged since then cater to a very different crowd, with **upscale cocktail lounges** like **True Laurel** and **ABV** discouraging heavy drinking through **higher prices** and **reservation systems**. These changes have led to fewer late-night disturbances and a shift away from the dive bar atmosphere that once defined the Mission’s nightlife ([Mission Local 2024](https://missionlocal.org/2024/02/mission-bars-2024/)).
 
-- **New bars cater to a different crowd**: Upscale cocktail lounges (e.g., **True Laurel**, **ABV**) discourage heavy drinking with **higher prices** and **reservation systems**, leading to fewer late-night disturbances. [Mission Local 2024](https://missionlocal.org/2024/02/mission-bars-2024/)  
+Meanwhile, the rise of **remote work** has had a lasting impact on the city's nightlife. With fewer office workers commuting to the city, there has been a noticeable reduction in **happy hour crowds** in former nightlife hubs. This shift has further diminished the demand for late-night drinking spots in areas like the Mission, which once relied heavily on office workers for business ([SF Chronicle 2024](https://www.sfchronicle.com/sf/article/remote-work-nightlife-19345678.php)).
 
-- **Remote work’s lasting impact**: Fewer office workers mean **fewer happy hours** and **reduced foot traffic** in former nightlife hubs. [SF Chronicle 2024](https://www.sfchronicle.com/sf/article/remote-work-nightlife-19345678.php)  
-
-#### Harm Reduction and Diversion Programs  
-- **Fewer arrests, more outreach**: SFPD now **rarely books individuals** for public intoxication unless they’re violent. Instead, officers **call homeless outreach teams** or transport people to shelters.  [SFPD Policy Directive No. 23-04](https://www.sanfranciscopolice.org/sites/default/files/Documents/PoliceCommission/GeneralOrders/GO5.07CiteRelease.pdf)  
+At the same time, San Francisco's approach to public intoxication has shifted significantly toward **harm reduction**. The SFPD now **rarely books individuals** for public intoxication unless they are violent. Instead, officers typically **call homeless outreach teams** or transport intoxicated individuals to shelters, reflecting a broader shift toward **diversion programs** and a focus on helping individuals rather than arresting them. This approach is part of the city's evolving strategy to address public drunkenness in a more compassionate and effective way ([SFPD Policy Directive No. 23-04](https://www.sanfranciscopolice.org/sites/default/files/Documents/PoliceCommission/GeneralOrders/GO5.07CiteRelease.pdf)).
 
 
 ### **Are some months more challenging than others?**
