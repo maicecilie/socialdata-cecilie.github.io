@@ -15,7 +15,7 @@ The following insights have been generated from the San Francisco crime data rep
 
 ![image](/images/cat.jpg)
 
-<iframe src="/images/bokeh_plot.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/docs/images/bokeh_plot.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ---
 
