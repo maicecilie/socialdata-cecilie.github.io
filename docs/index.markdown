@@ -13,6 +13,8 @@ The following insights have been generated from the San Francisco crime data rep
 
 [Read the full story →](#cover-story)  
 
+<iframe src="{{ site.baseurl }}/assets/plots/bokeh_plot.html" width="800" height="600"></iframe>
+
 ---
 
 ## **In This Issue**  
