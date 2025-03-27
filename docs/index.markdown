@@ -36,12 +36,17 @@ By 2019, the heatmap revealed a dramatic reduction in these hot spots, with fewe
 
 In 2024, however, the heatmap showed a slight resurgence in areas such as SoMa and the Mission District, indicating that while public drunkenness was still far below 2014 levels, there was a small uptick in certain neighborhoods. This increase likely reflects the post-pandemic return of nightlife and public events, as social spaces and bars reopened, leading to more public gatherings and, consequently, more incidents of public intoxication. SoMa had seen a rise in its nightlife scene in recent years, with a growing number of bars and event venues attracting large crowds, particularly on weekends. The area’s proximity to tech offices and the Chase Center, which hosts large events, likely contributed to this resurgence. As a result, SoMa became a hot spot once again, as shown in the 2024 heatmap. Similarly, the Mission District, while still experiencing a reduction in drunkenness-related incidents compared to 2014, showed a slight increase, likely tied to the reopening of its many bars and restaurants as part of the city’s recovery.
 
+
+## Are some months more challenging than others?
+
+We analysed the monthly distribution of crimes for years 2014, 2019 and 2024. Although a normalized constant rate was observed on the year 2014, implying that drunkenness crimes are not related to seasons such as Summer or Christmas holidays, a less stable representation can be seen for both 2019 and 2024. Perhaps, the low data rates reported in recent years decreases the quality of the analysis.
+
+<iframe src="{{ site.baseurl }}/images/bokeh_plot.html" width="800" height="600"></iframe>
+
+
 ## The Future of Public Intoxication in San Francisco
 
 The dramatic fall in drunkenness crimes after 2014 is a testament to policy changes and social transformations in the city. However, the slight rise in 2024 raises questions about whether the trend may reverse as nightlife culture regains momentum. Will San Francisco continue to keep public intoxication at historic lows, or are we seeing the early signs of a resurgence? Only time will tell.
-
-
-<iframe src="{{ site.baseurl }}/images/bokeh_plot.html" width="800" height="600"></iframe>
 
 ---
 
