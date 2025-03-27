@@ -22,7 +22,7 @@ By 2019, the number of drunkenness incidents had plummeted to just **13 reported
 While drunkenness crimes remained relatively low, **2024 saw a modest increase to 31 cases**—more than double the numbers from 2019. The **Southern District (15)** saw the most incidents, followed by the **Mission (10)**.
 
 
-## Changes in City Culture: Analyzing the Shifts in Public Intoxication
+### Changes in City Culture: Analyzing the Shifts in Public Intoxication
 
 To understand the changing patterns of public intoxication in San Francisco, we analyzed heatmaps for 2014, 2019, and 2024, which provide a visual representation of how drunkenness-related incidents have shifted across the city's neighborhoods.
 
